@@ -29,7 +29,7 @@
             margin: 0;
             flex-direction: column;
         }
-/*
+
         form {
             margin-bottom: 20px;
         }
@@ -69,7 +69,7 @@
 
         input[type="submit"]:hover {
             background-color: #45a049;
-        }*/
+        }
     </style>
     </head>
     <body>
